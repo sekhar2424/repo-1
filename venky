@@ -1,0 +1,9 @@
+ public class test{
+ public string name {get; set;}
+public integer rollno {get; set;}
+
+public test ();
+ name name = new name ();
+ public void getname();
+}
+
